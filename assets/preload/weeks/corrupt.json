@@ -1,0 +1,58 @@
+{
+	"storyName": "Corruption Week 6",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"senpai-remix",
+			"senpai-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dead-pixel",
+			"senpai-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"treacherous-thorns",
+			"senpai-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"roots",
+			"spirit-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Corruption Week 6"
+}
