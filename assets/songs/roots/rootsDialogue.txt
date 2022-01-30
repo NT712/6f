@@ -1,0 +1,9 @@
+:dadcrazy:You know what?
+:dadcrazy:I'm no longer satisfied with letting you leave this place.
+:dadcrazy:I am going to KILL you myself.
+:bfglitch:Transferal Complete ("bf_soul is now present") Console.Write("It is only a matter of time. This is your fate.");
+:dad:...
+:dad:I understand now.
+:dad:This really is the end of this world, isn't it?
+:dad:Very well, if that is the case...
+:dadcrazy:I will be taking you down with me.

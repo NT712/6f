@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "No longer.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spirit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spirit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I am no longer satisfied with letting you leave this place"
+		},
+		{
+			"expression": "talk",
+			"text": "I will ensure you die here. ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spirit"
+		},
+		{
+			"expression": "talk",
+			"text": "ConsoleWrite:\\n(\"''bfSoul is now present. There is no escape''",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfdead"
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spirit"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.275,
+			"portrait": "spirit"
+		},
+		{
+			"expression": "confused",
+			"text": "so this is the end...",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "spirit"
+		},
+		{
+			"expression": "talk",
+			"text": "then i'll take you down with me.",
+			"boxState": "normal",
+			"speed": 0.0999999999999998,
+			"portrait": "spirit"
+		}
+	]
+}

@@ -1,0 +1,3 @@
+:bf:Delete(SENPAI.DATA);
+:bf:Request Accepted("Successfully deleted SENPAI.DATA")
+:bf:Console.Write("One left.");
