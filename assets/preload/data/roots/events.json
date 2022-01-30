@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "schoolDead",
+		"player1": "bfsoul",
+		"player2": "spiritCrazy",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				100725,
+				[
+					[
+						"Change Character",
+						"1",
+						"spiritt"
+					]
+				]
+			],
+			[
+				122400,
+				[
+					[
+						"Boyfriend Silhouette",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nothing",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Roots"
+	}
+}
