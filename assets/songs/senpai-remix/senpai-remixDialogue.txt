@@ -1,0 +1,5 @@
+:dad:Ah, a new fair maiden has come in search of true love!
+:bf:Beep bo bop
+:dad:A serenade between gentlemen shall decide where her beautiful heart shall reside.
+:bf:void StartTransferal(Soul bf_soul){ switch (admin) { case "user": admin == "???" } GrantOwnership(admin) Console.Write("You are next.") } hawoidjoiawdjowajdiojawidjawodijwoaoiwdjoiawdjwjdoaidjw
+:dad:...

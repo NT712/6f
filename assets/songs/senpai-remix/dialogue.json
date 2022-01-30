@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "senpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, a fair maiden has come in search of true love!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bo bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "senpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A sernade between gentlemen shall decide where her beautiful heart shall reside."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "void StartTransferal(bfSoul) [transfer ('admin') \\[[case ''user'': admin = '???' ]]]\\nGrantOwnership(admin)\\nConsole.Write(''yee yee ass haircut lmfao)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "senpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "didnt ask + ratio + L"
+		}
+	]
+}
