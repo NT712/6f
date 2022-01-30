@@ -1,0 +1,184 @@
+{
+	"song": {
+		"speed": 1.7,
+		"stage": "schoolmew",
+		"player1": "bf2",
+		"player2": "senpainew",
+		"player3": null,
+		"events": [
+			[
+				20531.25,
+				[
+					[
+						"Change Character",
+						"0",
+						"glitchybf"
+					],
+					[
+						"Swap BG",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				20718.75,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf2"
+					],
+					[
+						"Swap BG",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				30843.75,
+				[
+					[
+						"Change Character",
+						"0",
+						"glitchybf"
+					],
+					[
+						"Change Character",
+						"2",
+						"gfdead"
+					]
+				]
+			],
+			[
+				31125,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf2"
+					],
+					[
+						"Change Character",
+						"2",
+						"gfdead"
+					]
+				]
+			],
+			[
+				32250,
+				[
+					[
+						"Change Character",
+						"0",
+						"glitchybf"
+					],
+					[
+						"Swap BG",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"gfdead"
+					]
+				]
+			],
+			[
+				33000,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpaiCon"
+					]
+				]
+			],
+			[
+				48333.3333333333,
+				[
+					[
+						"Swap BG",
+						"0",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"gf"
+					]
+				]
+			],
+			[
+				57333.3333333333,
+				[
+					[
+						"Swap BG",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"gfdead"
+					]
+				]
+			],
+			[
+				60666.6666666667,
+				[
+					[
+						"Swap BG",
+						"0",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"gf"
+					]
+				]
+			],
+			[
+				66666.6666666667,
+				[
+					[
+						"Swap BG",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"gfdead"
+					]
+				]
+			],
+			[
+				84666.6666666667,
+				[
+					[
+						"Swap BG",
+						"0",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"gf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Senpai-Remix"
+	}
+}
