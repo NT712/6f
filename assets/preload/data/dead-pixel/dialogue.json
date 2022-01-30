@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "Something's wrong with you.",
+			"boxState": "normal",
+			"portrait": "senpai",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "Get away from me and my mistress, Now!",
+			"boxState": "normal",
+			"portrait": "senpai",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "EEEEJHBHBJEHBRRASRCARSRASASKASKJNKLNLSALAKSLAKSNLKANLSKNLKSNASLKNAKLJSNPORNFUCKCUNTBITCHSDKNLSKDNMSLKDNLKDNLKNLKNLKLKNL",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gfdead"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.105,
+			"portrait": "senpai"
+		}
+	]
+}
