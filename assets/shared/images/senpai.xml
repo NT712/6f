@@ -1,0 +1,580 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="senpai.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angytalk0000" x="0" y="0" width="447" height="589"/>
+	<SubTexture name="angytalk0001" x="0" y="0" width="447" height="589"/>
+	<SubTexture name="angytalk0002" x="450" y="0" width="447" height="588" frameX="0" frameY="-1" frameWidth="447" frameHeight="589"/>
+	<SubTexture name="angytalk0003" x="450" y="0" width="447" height="588" frameX="0" frameY="-1" frameWidth="447" frameHeight="589"/>
+	<SubTexture name="angytalk0004" x="900" y="0" width="447" height="588" frameX="0" frameY="-1" frameWidth="447" frameHeight="589"/>
+	<SubTexture name="angytalk0005" x="900" y="0" width="447" height="588" frameX="0" frameY="-1" frameWidth="447" frameHeight="589"/>
+	<SubTexture name="deadpai0000" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0001" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0002" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0003" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0004" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0005" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0006" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0007" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0008" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0009" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0010" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0011" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0012" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0013" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0014" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0015" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0016" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0017" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0018" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0019" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0020" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0021" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0022" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0023" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0024" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0025" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0026" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0027" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0028" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0029" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0030" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0031" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0032" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0033" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0034" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0035" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0036" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0037" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0038" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0039" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0040" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0041" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0042" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0043" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0044" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0045" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0046" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0047" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0048" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0049" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0050" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0051" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0052" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0053" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0054" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0055" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0056" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0057" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0058" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0059" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0060" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0061" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0062" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0063" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0064" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0065" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0066" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0067" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0068" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0069" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0070" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0071" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0072" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0073" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0074" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0075" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0076" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0077" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0078" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0079" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0080" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0081" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0082" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0083" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0084" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0085" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0086" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0087" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0088" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0089" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0090" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0091" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0092" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0093" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0094" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0095" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0096" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0097" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0098" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0099" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0100" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0101" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0102" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0103" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0104" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0105" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0106" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0107" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0108" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0109" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0110" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0111" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0112" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0113" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0114" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0115" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0116" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0117" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0118" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0119" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0120" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0121" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0122" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0123" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0124" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0125" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0126" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0127" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0128" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0129" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0130" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0131" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0132" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0133" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="deadpai0134" x="1350" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0000" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0001" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0002" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0003" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0004" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0005" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0006" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0007" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0008" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0009" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0010" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0011" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0012" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0013" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0014" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0015" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0016" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0017" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0018" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0019" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0020" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0021" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0022" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0023" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0024" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0025" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0026" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0027" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0028" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0029" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0030" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0031" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0032" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0033" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0034" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0035" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0036" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0037" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0038" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0039" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0040" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0041" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0042" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0043" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0044" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0045" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0046" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0047" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0048" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0049" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0050" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0051" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0052" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0053" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0054" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0055" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0056" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0057" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0058" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0059" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0060" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0061" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0062" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0063" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0064" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0065" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0066" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0067" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0068" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0069" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0070" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0071" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0072" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0073" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0074" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0075" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0076" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0077" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0078" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0079" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0080" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0081" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0082" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0083" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0084" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0085" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0086" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0087" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0088" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0089" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0090" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0091" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0092" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0093" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0094" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0095" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0096" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0097" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0098" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0099" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0100" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0101" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0102" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0103" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0104" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0105" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0106" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0107" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0108" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0109" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0110" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0111" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0112" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0113" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0114" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0115" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0116" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0117" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0118" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0119" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0120" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0121" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0122" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0123" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0124" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0125" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0126" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0127" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0128" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0129" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0130" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0131" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0132" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0133" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sadpai0134" x="1800" y="0" width="447" height="589"/>
+	<SubTexture name="sanpai-happy0000" x="2250" y="0" width="446" height="537" frameX="0" frameY="-1" frameWidth="446" frameHeight="538"/>
+	<SubTexture name="sanpai-happy0001" x="2699" y="0" width="446" height="537" frameX="0" frameY="-1" frameWidth="446" frameHeight="538"/>
+	<SubTexture name="sanpai-happy0002" x="3148" y="0" width="446" height="538"/>
+	<SubTexture name="sanpai-happy0003" x="3597" y="0" width="446" height="538"/>
+	<SubTexture name="sanpai-happy0004" x="0" y="592" width="446" height="538"/>
+	<SubTexture name="sanpai-happy0005" x="449" y="592" width="446" height="538"/>
+	<SubTexture name="senpai happy rest0000" x="898" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0001" x="1348" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0002" x="1798" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0003" x="2248" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0004" x="2248" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0005" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0006" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0007" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0008" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0009" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0010" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0011" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0012" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0013" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0014" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0015" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0016" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0017" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0018" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0019" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0020" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0021" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0022" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0023" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0024" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0025" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0026" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0027" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0028" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0029" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0030" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0031" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0032" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0033" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0034" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0035" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0036" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0037" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0038" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0039" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0040" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0041" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0042" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0043" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0044" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0045" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0046" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0047" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0048" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0049" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0050" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0051" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0052" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0053" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0054" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0055" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0056" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0057" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0058" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0059" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0060" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0061" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0062" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0063" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0064" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0065" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0066" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0067" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0068" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0069" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0070" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0071" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0072" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0073" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0074" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0075" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0076" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0077" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0078" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0079" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0080" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0081" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0082" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0083" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0084" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0085" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0086" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0087" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0088" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0089" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0090" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0091" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0092" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0093" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0094" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0095" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0096" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0097" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0098" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0099" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0100" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0101" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0102" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0103" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0104" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0105" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0106" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0107" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0108" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0109" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0110" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0111" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0112" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0113" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0114" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0115" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0116" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0117" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0118" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0119" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0120" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0121" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0122" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0123" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0124" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0125" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0126" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0127" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0128" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0129" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0130" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0131" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0132" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0133" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0134" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0135" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0136" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0137" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0138" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0139" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0140" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0141" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0142" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0143" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0144" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0145" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0146" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0147" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0148" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0149" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0150" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0151" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0152" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0153" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0154" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0155" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0156" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai happy rest0157" x="2698" y="592" width="447" height="588"/>
+	<SubTexture name="senpai mad still0000" x="3148" y="592" width="447" height="589"/>
+	<SubTexture name="senpai mad still0001" x="3598" y="592" width="447" height="589"/>
+	<SubTexture name="senpai mad still0002" x="0" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0003" x="0" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0004" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0005" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0006" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0007" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0008" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0009" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0010" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0011" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0012" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0013" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0014" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0015" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0016" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0017" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0018" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0019" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0020" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0021" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0022" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0023" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0024" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0025" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0026" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0027" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0028" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0029" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0030" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0031" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0032" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0033" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0034" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0035" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0036" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0037" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0038" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0039" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0040" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0041" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0042" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0043" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0044" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0045" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0046" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0047" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0048" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0049" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0050" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0051" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0052" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0053" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0054" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0055" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0056" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0057" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0058" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0059" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0060" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0061" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0062" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0063" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0064" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0065" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0066" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0067" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0068" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0069" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0070" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0071" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0072" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0073" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0074" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0075" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0076" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0077" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0078" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0079" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0080" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0081" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0082" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0083" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0084" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0085" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0086" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0087" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0088" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0089" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0090" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0091" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0092" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0093" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0094" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0095" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0096" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0097" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0098" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0099" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0100" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0101" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0102" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0103" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0104" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0105" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0106" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0107" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0108" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0109" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0110" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0111" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0112" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0113" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0114" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0115" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0116" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0117" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0118" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0119" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0120" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0121" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0122" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0123" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0124" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0125" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0126" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0127" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0128" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0129" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0130" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0131" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0132" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0133" x="450" y="1184" width="447" height="589"/>
+	<SubTexture name="senpai mad still0134" x="450" y="1184" width="447" height="589"/>
+</TextureAtlas>
