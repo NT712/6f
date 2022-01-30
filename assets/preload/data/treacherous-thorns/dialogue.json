@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "You know what?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "pissed",
+			"text": "You and your mess of a girlfriend can piss off.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "talk",
+			"text": "removeChar (mods-images-characters-concernedsenpai.png)\\nremoveChar (/mods-/images-characters-concernedsenpai.xml) removeVoices(senpai-remix.ogg)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfdead"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.135,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "talk",
+			"text": "ERROR:\\nUnauthorizedAccessException\\nConsoleWrite: \\n(''You will not succeed.'')\\n",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfdead"
+		}
+	]
+}
