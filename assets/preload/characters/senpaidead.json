@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "senpaidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-289
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "senpaiup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-312
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "senpairight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-324
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "senpaidown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-282
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "senpai left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/buggyass",
+	"position": [
+		-30,
+		-140
+	],
+	"healthicon": "senpai-dead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		170,
+		111
+	],
+	"camera_position": [
+		20,
+		240
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

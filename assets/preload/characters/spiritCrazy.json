@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				-280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spirit idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-221,
+				-330
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spiritdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				-240
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spirit up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-280
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "spiritright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				-280
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spirit left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/low effort lol",
+	"position": [
+		-150,
+		-460
+	],
+	"healthicon": "spirit-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		110
+	],
+	"camera_position": [
+		230,
+		520
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}
