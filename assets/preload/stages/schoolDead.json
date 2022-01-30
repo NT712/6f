@@ -1,0 +1,9 @@
+{
+	"directory": "weeb",
+	"defaultZoom": 0.95,
+	"isPixelStage": false,
+
+	"boyfriend": [970, 220],
+	"girlfriend": [380, 100],
+	"opponent": [100, -70]
+}
